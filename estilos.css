@@ -1,0 +1,82 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    margin-top: 80px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 60px;
+    background-color:rgba(25, 108, 156, 0.596);
+}
+
+h1{
+    text-align: center;
+}
+
+#descripcion{
+    margin-left: 20px;
+    margin-right: 100px;
+}
+
+h2{
+    text-align: start;
+}
+h3, h4, h5{
+    text-align: center;
+}
+
+th{
+    text-align: center;
+}
+
+img{
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    border-radius: 45px;
+}
+.tabla_invisible{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.horario_principal{
+    margin-left: 170px;
+    border-collapse: collapse;
+    border: 2px solid #000;
+    background-color: rgba(204, 228, 216, 0.774);
+}
+.materias_horas{
+    margin-left: 260px;
+    border-collapse: collapse;
+    border: 2px solid #000;
+    background-color: rgba(204, 228, 216, 0.774);
+}
+
+th,
+td {
+  border: 1px solid #000000;
+  padding: 4px;
+}
+th{
+    font-size:larger;
+}
+td{
+    font-size: small;
+}
+.celda_invisible{
+    border: 1px solid #ffffff00;
+}
+.logouthh{
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    border-radius: 90px;
+}
+
+ol, ul{
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-bottom: 25px;
+}
+li{
+    padding-left: 2px;
+}
+
